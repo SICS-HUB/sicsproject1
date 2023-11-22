@@ -1,0 +1,4 @@
+created a git account
+created a repo as sicsproject1
+created a new file as test1.txt 
+saved and typed a things what had done
